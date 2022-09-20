@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Thomas Godwin",
 	"description": "Backend Skill Workout Exercise",
+	"keywords": [ "freecodecamp", "npm practice", "Node", "server configuration", "express", "mongoDB" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
